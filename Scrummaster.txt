@@ -86,25 +86,25 @@ Evander Pius Purba
 
 Kamis - Jumat	: Ryandi Pratama Purba
 Kamis : Mhd Reza Putra
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		:  Penambahan gambar di halaman awal dan kesimpulan
+- yang dikerjain selanjutnya	: Menghapus Slide yang tidak diperlukan
+- masalah yang dihadapi			: -
 Gugun Simamora
-- yang dikerjakan hari ini		:
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: menambahkan deskripsi
+- yang dikerjain selanjutnya	: memperbaiki slide
+- masalah yang dihadapi			: - 
 Ryandi Pratama Purba
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: -
+- yang dikerjain selanjutnya	: menambahkan fitur
+- masalah yang dihadapi			:-
 Ferian Bagus Nugraha
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: mengedit nama
+- yang dikerjain selanjutnya	: menambahkan fitur
+- masalah yang dihadapi			: - 
 Evander Pius Purba
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: penambahan kekurangan
+- yang dikerjain selanjutnya	: penambahan kelebihan
+- masalah yang dihadapi			: penggunaan git
 
 Jumat : Mhd Reza Putra
 - yang dikerjakan hari ini		: 
