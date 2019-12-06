@@ -1,0 +1,214 @@
+Jumat - Senin	: Mhd Reza Putra
+Jumat : Mhd Reza Putra
+- yang dikerjakan hari ini		: Memasukan nama dan nim ke dalam slide
+- yang dikerjain selanjutnya	: Memasukan judul di satu slide
+- masalah yang dihadapi			: Penggunaan git
+Gugun Simamora
+- yang dikerjakan hari ini		: Memasukan nama dan nim ke dalam slide
+- yang dikerjain selanjutnya	: Memasukan judul di satu slide
+- masalah yang dihadapi			: Penggunaan git
+Ryandi Pratama Purba
+- yang dikerjakan hari ini		: Memasukan nama dan nim ke dalam slide
+- yang dikerjain selanjutnya	: Memasukan judul di satu slide
+- masalah yang dihadapi			: Penggunaan git
+Ferian Bagus Nugraha
+- yang dikerjakan hari ini		: Memasukan nama dan nim ke dalam slide
+- yang dikerjain selanjutnya	: Memasukan judul di satu slide
+- masalah yang dihadapi			: Penggunaan git
+Evander Pius Purba
+- yang dikerjakan hari ini		: Memasukan nama dan nim ke dalam slide
+- yang dikerjain selanjutnya	: Memasukan judul di satu slide
+- masalah yang dihadapi			: Penggunaan git
+
+Senin : Mhd Reza Putra
+- yang dikerjakan hari ini		: Memasukan judul di satu slide
+- yang dikerjain selanjutnya	: Memasukan Gambar ke dalam folder src/image
+- masalah yang dihadapi			: -
+Gugun Simamora
+- yang dikerjakan hari ini		: Memasukan judul di satu slide
+- yang dikerjain selanjutnya	: Memasukan Gambar ke dalam folder src/image
+- masalah yang dihadapi			: Penggunaan git
+Ryandi Pratama Purba
+- yang dikerjakan hari ini		: Memasukan judul di satu slide
+- yang dikerjain selanjutnya	: Memasukan Gambar ke dalam folder src/image
+- masalah yang dihadapi			: Penggunaan git
+Ferian Bagus Nugraha
+- yang dikerjakan hari ini		: Memasukan judul di satu slide
+- yang dikerjain selanjutnya	: Memasukan Gambar ke dalam folder src/image
+- masalah yang dihadapi			: Penggunaan git
+Evander Pius Purba
+- yang dikerjakan hari ini		: Memasukan judul di satu slide
+- yang dikerjain selanjutnya	: Memasukan Gambar ke dalam folder src/image
+- masalah yang dihadapi			: Penggunaan git
+
+Selasa - Rabu	: Gugun Simamora
+Selasa : Mhd Reza Putra
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Gugun Simamora
+- yang dikerjakan hari ini		:
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ryandi Pratama Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ferian Bagus Nugraha
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Evander Pius Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+
+Rabu : Mhd Reza Putra
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Gugun Simamora
+- yang dikerjakan hari ini		:
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ryandi Pratama Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ferian Bagus Nugraha
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Evander Pius Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+
+Kamis - Jumat	: Ryandi Pratama Purba
+Kamis : Mhd Reza Putra
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Gugun Simamora
+- yang dikerjakan hari ini		:
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ryandi Pratama Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ferian Bagus Nugraha
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Evander Pius Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+
+Jumat : Mhd Reza Putra
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Gugun Simamora
+- yang dikerjakan hari ini		:
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ryandi Pratama Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ferian Bagus Nugraha
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Evander Pius Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+
+Senin - Selasa 	: Ferian Bagus Nugraha
+Senin : Mhd Reza Putra
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Gugun Simamora
+- yang dikerjakan hari ini		:
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ryandi Pratama Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ferian Bagus Nugraha
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Evander Pius Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+
+Selasa : Mhd Reza Putra
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Gugun Simamora
+- yang dikerjakan hari ini		:
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ryandi Pratama Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ferian Bagus Nugraha
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Evander Pius Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+
+Rabu - Kamis	: Evander Pius Purba
+Rabu : Mhd Reza Putra
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Gugun Simamora
+- yang dikerjakan hari ini		:
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ryandi Pratama Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ferian Bagus Nugraha
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Evander Pius Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+
+Kamis : Mhd Reza Putra
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Gugun Simamora
+- yang dikerjakan hari ini		:
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ryandi Pratama Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Ferian Bagus Nugraha
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
+Evander Pius Purba
+- yang dikerjakan hari ini		: 
+- yang dikerjain selanjutnya	:
+- masalah yang dihadapi			:
