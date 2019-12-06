@@ -3,7 +3,7 @@ Jumat : Mhd Reza Putra
 - yang dikerjakan hari ini		: Memasukan nama dan nim ke dalam slide
 - yang dikerjain selanjutnya	: Memasukan judul di satu slide
 - masalah yang dihadapi			: Penggunaan git
-Gugun Simamora
+Gugun Simamora 
 - yang dikerjakan hari ini		: Memasukan nama dan nim ke dalam slide
 - yang dikerjain selanjutnya	: Memasukan judul di satu slide
 - masalah yang dihadapi			: Penggunaan git
