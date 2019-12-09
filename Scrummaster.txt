@@ -96,7 +96,7 @@ Gugun Simamora
 Ryandi Pratama Purba
 - yang dikerjakan hari ini		: -
 - yang dikerjain selanjutnya	: menambahkan fitur
-- masalah yang dihadapi			:-
+- masalah yang dihadapi			: -
 Ferian Bagus Nugraha
 - yang dikerjakan hari ini		: mengedit nama
 - yang dikerjain selanjutnya	: menambahkan fitur
@@ -107,25 +107,25 @@ Evander Pius Purba
 - masalah yang dihadapi			: penggunaan git
 
 Jumat : Mhd Reza Putra
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Menghapus Slide yang tidak diperlukan
+- yang dikerjain selanjutnya	: 
+- masalah yang dihadapi			: -
 Gugun Simamora
-- yang dikerjakan hari ini		:
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Memasukkan isi slide Kelebihan
+- yang dikerjain selanjutnya	: Menambahkan Kesimpulan
+- masalah yang dihadapi			: -
 Ryandi Pratama Purba
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Menambahkan fitur & laporan scrum
+- yang dikerjain selanjutnya	: menambahkan gambar yang diperlukan
+- masalah yang dihadapi			: -
 Ferian Bagus Nugraha
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: -
+- yang dikerjain selanjutnya	: melengkapi kesimpulan
+- masalah yang dihadapi			: -
 Evander Pius Purba
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: memperbaiki slide bagian kekurangan
+- yang dikerjain selanjutnya	: 
+- masalah yang dihadapi			: -
 
 Senin - Selasa 	: Ferian Bagus Nugraha
 Senin : Mhd Reza Putra
