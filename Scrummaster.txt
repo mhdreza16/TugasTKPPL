@@ -46,47 +46,47 @@ Evander Pius Purba
 Scrummaster 3 dan 4 Desember    : Gugun Simamora
 Selasa, 3 Desember 2019
 Mhd Reza Putra
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Memasukan Gambar ke dalam folder src/image
+- yang dikerjain selanjutnya	: Perubahan judul halaman awal
+- masalah yang dihadapi			: -
 Gugun Simamora
-- yang dikerjakan hari ini		:
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Memasukan Gambar ke dalam folder src/image
+- yang dikerjain selanjutnya	: Menambahkan deskripsi
+- masalah yang dihadapi			: Penggunaan git
 Ryandi Pratama Purba
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Memasukan Gambar ke dalam folder src/image
+- yang dikerjain selanjutnya	: memasukkan deskripsi
+- masalah yang dihadapi			: Penggunaan git
 Ferian Bagus Nugraha
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Memasukan Gambar ke dalam folder src/image
+- yang dikerjain selanjutnya	: menghapus gambar samsung family hub
+- masalah yang dihadapi			: Penggunaan git
 Evander Pius Purba
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Memasukan Gambar ke dalam folder src/image
+- yang dikerjain selanjutnya	: Menambahkan list fitur
+- masalah yang dihadapi			: Penggunaan git
 ------------------------------------------------------------------------------------------------------
 Rabu, 4 Desember 2019
 Mhd Reza Putra
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Perubahan judul halaman awal
+- yang dikerjain selanjutnya	: Penambahan gambar di halaman awal dan kesimpulan
+- masalah yang dihadapi			: -
 Gugun Simamora
-- yang dikerjakan hari ini		:
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Menambahkan deskripsi
+- yang dikerjain selanjutnya	: Menambahkan spesifikasi
+- masalah yang dihadapi			: Penggunaan git
 Ryandi Pratama Purba
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Memasukkan deskripsi
+- yang dikerjain selanjutnya	: -
+- masalah yang dihadapi			: Penggunaan git
 Ferian Bagus Nugraha
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Menghapus gambar samsung family hub
+- yang dikerjain selanjutnya	: Melakukan pengeditan nama
+- masalah yang dihadapi			: Penggunaan git
 Evander Pius Purba
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Menambahkan list fitur
+- yang dikerjain selanjutnya	: Menambahkan kekurangan
+- masalah yang dihadapi			: Penggunaan git
 =====================================================================================================
 Scrummaster 5 dan 6 Desember    : Ryandi Pratama Purba
 Kamis, 5 Desember 2019
