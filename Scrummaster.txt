@@ -1,5 +1,6 @@
-Jumat - Senin	: Mhd Reza Putra
-Jumat : Mhd Reza Putra
+Scrummaster 29 November dan 2 Desember : Mhd Reza Putra
+Jumat, 29 November 2019
+Mhd Reza Putra
 - yang dikerjakan hari ini		: Memasukan nama dan nim ke dalam slide
 - yang dikerjain selanjutnya	: Memasukan judul di satu slide
 - masalah yang dihadapi			: Penggunaan git
@@ -19,8 +20,9 @@ Evander Pius Purba
 - yang dikerjakan hari ini		: Memasukan nama dan nim ke dalam slide
 - yang dikerjain selanjutnya	: Memasukan judul di satu slide
 - masalah yang dihadapi			: Penggunaan git
-
-Senin : Mhd Reza Putra
+------------------------------------------------------------------------------------------------------
+Senin, 2 Desember 2019
+Mhd Reza Putra
 - yang dikerjakan hari ini		: Memasukan judul di satu slide
 - yang dikerjain selanjutnya	: Memasukan Gambar ke dalam folder src/image
 - masalah yang dihadapi			: -
@@ -40,9 +42,10 @@ Evander Pius Purba
 - yang dikerjakan hari ini		: Memasukan judul di satu slide
 - yang dikerjain selanjutnya	: Memasukan Gambar ke dalam folder src/image
 - masalah yang dihadapi			: Penggunaan git
-
-Selasa - Rabu	: Gugun Simamora
-Selasa : Mhd Reza Putra
+=====================================================================================================
+Scrummaster 3 dan 4 Desember    : Gugun Simamora
+Selasa, 3 Desember 2019
+Mhd Reza Putra
 - yang dikerjakan hari ini		: 
 - yang dikerjain selanjutnya	:
 - masalah yang dihadapi			:
@@ -62,8 +65,9 @@ Evander Pius Purba
 - yang dikerjakan hari ini		: 
 - yang dikerjain selanjutnya	:
 - masalah yang dihadapi			:
-
-Rabu : Mhd Reza Putra
+------------------------------------------------------------------------------------------------------
+Rabu, 4 Desember 2019
+Mhd Reza Putra
 - yang dikerjakan hari ini		: 
 - yang dikerjain selanjutnya	:
 - masalah yang dihadapi			:
@@ -83,9 +87,10 @@ Evander Pius Purba
 - yang dikerjakan hari ini		: 
 - yang dikerjain selanjutnya	:
 - masalah yang dihadapi			:
-
-Kamis - Jumat	: Ryandi Pratama Purba
-Kamis : Mhd Reza Putra
+=====================================================================================================
+Scrummaster 5 dan 6 Desember    : Ryandi Pratama Purba
+Kamis, 5 Desember 2019
+Mhd Reza Putra
 - yang dikerjakan hari ini		:  Penambahan gambar di halaman awal dan kesimpulan
 - yang dikerjain selanjutnya	: Menghapus Slide yang tidak diperlukan
 - masalah yang dihadapi			: -
@@ -105,8 +110,9 @@ Evander Pius Purba
 - yang dikerjakan hari ini		: penambahan kekurangan
 - yang dikerjain selanjutnya	: penambahan kelebihan
 - masalah yang dihadapi			: penggunaan git
-
-Jumat : Mhd Reza Putra
+------------------------------------------------------------------------------------------------------
+Jumat, 6 Desember 2019
+Mhd Reza Putra
 - yang dikerjakan hari ini		: Menghapus Slide yang tidak diperlukan
 - yang dikerjain selanjutnya	: 
 - masalah yang dihadapi			: -
@@ -126,9 +132,10 @@ Evander Pius Purba
 - yang dikerjakan hari ini		: memperbaiki slide bagian kekurangan
 - yang dikerjain selanjutnya	: 
 - masalah yang dihadapi			: -
-
-Senin - Selasa 	: Ferian Bagus Nugraha
-Senin : Mhd Reza Putra
+=====================================================================================================
+Scrummaster 9 dan 10 Desember  : Ferian Bagus Nugraha
+Senin, 9 Desember 2019
+Mhd Reza Putra
 - yang dikerjakan hari ini		: 
 - yang dikerjain selanjutnya	:
 - masalah yang dihadapi			:
@@ -148,8 +155,9 @@ Evander Pius Purba
 - yang dikerjakan hari ini		: 
 - yang dikerjain selanjutnya	:
 - masalah yang dihadapi			:
-
-Selasa : Mhd Reza Putra
+------------------------------------------------------------------------------------------------------
+Selasa 10 Desember 2019
+Mhd Reza Putra
 - yang dikerjakan hari ini		: 
 - yang dikerjain selanjutnya	:
 - masalah yang dihadapi			:
@@ -169,9 +177,10 @@ Evander Pius Purba
 - yang dikerjakan hari ini		: 
 - yang dikerjain selanjutnya	:
 - masalah yang dihadapi			:
-
-Rabu - Kamis	: Evander Pius Purba
-Rabu : Mhd Reza Putra
+=====================================================================================================
+Scrummaster 11 dan 12 Desember	: Evander Pius Purba
+Rabu, 12 Desember 2019
+Mhd Reza Putra
 - yang dikerjakan hari ini		: 
 - yang dikerjain selanjutnya	:
 - masalah yang dihadapi			:
@@ -191,8 +200,9 @@ Evander Pius Purba
 - yang dikerjakan hari ini		: 
 - yang dikerjain selanjutnya	:
 - masalah yang dihadapi			:
-
-Kamis : Mhd Reza Putra
+------------------------------------------------------------------------------------------------------
+Kamis, 12 Desember 2019
+Mhd Reza Putra
 - yang dikerjakan hari ini		: 
 - yang dikerjain selanjutnya	:
 - masalah yang dihadapi			:
