@@ -136,47 +136,47 @@ Evander Pius Purba
 Scrummaster 9 dan 10 Desember  : Ferian Bagus Nugraha
 Senin, 9 Desember 2019
 Mhd Reza Putra
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Mengubah text paragrap menjadi rata kiri kanan
+- yang dikerjain selanjutnya	: menambahkan box slide kesimpulan dan gambar list icon
+- masalah yang dihadapi			: -
 Gugun Simamora
-- yang dikerjakan hari ini		:
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Menambahkan Kesimpulan
+- yang dikerjain selanjutnya	: Menambahkan fitur 
+- masalah yang dihadapi			: -
 Ryandi Pratama Purba
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: menambahkan gambar
+- yang dikerjain selanjutnya	: memperbaiki gulp
+- masalah yang dihadapi			: -
 Ferian Bagus Nugraha
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Menambahkan Kesimpulan
+- yang dikerjain selanjutnya	: Mengisi laporan Scrummaster
+- masalah yang dihadapi			: -
 Evander Pius Purba
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Memperbaiki Slide
+- yang dikerjain selanjutnya	: - 
+- masalah yang dihadapi			: - 
 ------------------------------------------------------------------------------------------------------
 Selasa 10 Desember 2019
 Mhd Reza Putra
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
+- yang dikerjakan hari ini		: Menambahkan Box Slide
+- yang dikerjain selanjutnya	: -
 - masalah yang dihadapi			:
 Gugun Simamora
-- yang dikerjakan hari ini		:
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Menambahkan Kelebihan
+- yang dikerjain selanjutnya	: menambahkan fitur
+- masalah yang dihadapi			: -
 Ryandi Pratama Purba
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Memperbaiki gulp
+- yang dikerjain selanjutnya	: Memperbaiki Tampilan Slide
+- masalah yang dihadapi			: Penggunaan gulp
 Ferian Bagus Nugraha
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
+- yang dikerjakan hari ini		: Mengisi laporan Scrummaster
+- yang dikerjain selanjutnya	: Memperbaiki Tampilan
 - masalah yang dihadapi			:
 Evander Pius Purba
-- yang dikerjakan hari ini		: 
-- yang dikerjain selanjutnya	:
-- masalah yang dihadapi			:
+- yang dikerjakan hari ini		: Menambahkan fitur
+- yang dikerjain selanjutnya	: Mengisi laporan Scrummaster
+- masalah yang dihadapi			: -
 =====================================================================================================
 Scrummaster 11 dan 12 Desember	: Evander Pius Purba
 Rabu, 12 Desember 2019
