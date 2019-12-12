@@ -5,8 +5,26 @@ section
     border 10px outset
 h2 
     text-align center
-.borderBox
-    border solid grey
+    
+section{
+ padding :20px;
+ border-left: 10px solid #3EC8AC;
+  border-right: 10px solid #4E90A4;
+  border-radius: 5px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background-position: 0 0, 0 100%;
+  background-repeat: no-repeat;
+  -webkit-background-size: 100% 20px;
+  -moz-background-size: 100% 20px;
+  background-size: 100% 20px;
+  background-image: -webkit-linear-gradient(left, #3EC8AC 0%, #4E90A4 100%), -webkit-linear-gradient(left, #3EC8AC 0%, #4E90A4 100%);
+  background-image: -moz-linear-gradient(left, #3EC8AC 0%, #4E90A4 100%), -moz-linear-gradient(left, #3EC8AC 0%, #4E90A4 100%);
+  background-image: -o-linear-gradient(left, #3EC8AC 0%, #4E90A4 100%), -o-linear-gradient(left, #3EC8AC 0%, #4E90A4 100%);
+  background-image: linear-gradient(to right, #3EC8AC 0%, #4E90A4 100%), linear-gradient(to right, #3EC8AC 0%, #4E90A4 100%);
+ }
+
 .listKesimpulan li 
     list-style-image url('/images/chevron-right.svg')
 .listKekurangan li
